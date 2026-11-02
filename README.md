@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tiago%20Moreira&fontSize=50&fontColor=00ffff&animation=fadeIn&fontAlignY=35" />
   
-  <h3>👨‍💻 Software Development Student | Future Full-Stack Engineer</h3>
+  <h3>Software Development Student | Future Full-Stack Engineer</h3>
   
   <p align="center">
     <a href="https://www.linkedin.com/in/tiago-moreira-2a1376328/">
@@ -17,19 +17,19 @@
 <br>
 
 <!-- SOBRE MIM -->
-## ⚡ System.out.println("About Me");
+## System.out.println("About Me");
 
 Sou um estudante de **Desenvolvimento de Software** em Portugal, focado em construir soluções eficientes e escaláveis. A minha paixão é resolver problemas reais através de código limpo e arquitetura sólida.
 
-- 🚀 **Atualmente:** Aprofundando conhecimentos em **Full-Stack, AWS e Arquitetura de Software**.
-- 🌱 **Stack de Foco:** React, Node.js e Cloud Computing.
-- 💬 **Pergunte-me sobre:** JavaScript, Python, Git ou como iniciar na programação.
-- 📫 **Contacto:** [tiagodossantosmoreira01@gmail.com](mailto:tiagodossantosmoreira01@gmail.com)
+- **Atualmente:** Aprofundando conhecimentos em **Full-Stack, AWS e Arquitetura de Software**.
+- **Stack de Foco:** React, Node.js e Cloud Computing.
+- **Pergunte-me sobre:** JavaScript, Python, Git ou como iniciar na programação.
+- **Contacto:** [tiagodossantosmoreira01@gmail.com](mailto:tiagodossantosmoreira01@gmail.com)
 
 <br>
 
 <!-- TECH STACK -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -50,7 +50,7 @@ Sou um estudante de **Desenvolvimento de Software** em Portugal, focado em const
 <br>
 
 <!-- ESTATÍSTICAS (Futurista) -->
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagodomo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF"/>
@@ -60,13 +60,13 @@ Sou um estudante de **Desenvolvimento de Software** em Portugal, focado em const
 <br>
 
 <!-- IDIOMAS -->
-## 🌐 Languages
+## Languages
 
 | Language | Proficiency |
 | :--- | :--- |
-| 🇵🇹 **Portuguese** | Native |
-| 🇬🇧 **English** | Very Good (B2/C1) |
-| 🇪🇸 **Spanish** | Advanced (C1) |
+| **Portuguese** | Native |
+| **English** | Very Good (B2/C1) |
+| **Spanish** | Advanced (C1) |
 
 <br>
 
