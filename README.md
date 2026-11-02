@@ -1,121 +1,203 @@
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080C14,50:102638,100:087E9B&height=180&section=header&text=Tiago%20Moreira&fontSize=48&fontColor=E6F7FF&fontAlignY=38&animation=fadeIn" />
+# TIAGO MOREIRA
 
-  <h3>Software Development Student</h3>
+**Software Development Student · Portugal**
 
-  <p>
-    Portugal · Web Development · Software Engineering
-  </p>
+Building applications. Learning how systems work.
 
-  <a href="https://www.linkedin.com/in/tiago-moreira-2a1376328/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-087E9B?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tiagodossantosmoreira01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-087E9B?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/tiagodomo">
-    <img src="https://img.shields.io/badge/GitHub-Profile-087E9B?style=flat-square&logo=github&logoColor=white" />
-  </a>
+<br/>
+
+[GitHub](https://github.com/tiagodomo) &nbsp; / &nbsp;
+[LinkedIn](https://www.linkedin.com/in/tiago-moreira-2a1376328/) &nbsp; / &nbsp;
+[Email](mailto:tiagodossantosmoreira01@gmail.com)
+
+<br/>
+
+<img src="https://img.shields.io/badge/OPEN%20TO-LEARNING%20%26%20COLLABORATION-A3E635?style=flat-square&labelColor=161B22" />
 
 </div>
 
 ---
 
-## About
+<table>
+<tr>
+<td width="65%" valign="top">
 
-I'm a Software Development student based in Portugal, interested in web development and software engineering.
+### 01 / ABOUT
 
-I enjoy understanding how things work, solving technical problems and building applications. My main focus is developing my skills across frontend and backend technologies.
+I'm Tiago, a Software Development student based in Portugal.
 
-Currently, I'm focusing on:
+I'm interested in building web applications and understanding the systems behind them, from the user interface to backend logic and databases.
 
-- Full-Stack Development
-- React and Node.js
-- AWS and Cloud Computing
-- Software Architecture
+Currently, most of my attention goes into improving my development skills, working on practical projects and exploring technologies used in modern software development.
 
-I'm always looking for opportunities to put what I learn into practice through personal projects and collaboration.
+My long-term goal is to work as a Full-Stack Developer.
 
----
+</td>
+<td width="35%" valign="top">
 
-## Technologies
+### PROFILE
 
-**Programming Languages**
+| | |
+|:--|:--|
+| Location | Portugal |
+| Field | Software Development |
+| Focus | Full-Stack |
+| Frontend | React |
+| Backend | Node.js |
+| Cloud | AWS |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java&theme=dark" />
-</p>
-
-**Frontend & Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" />
-</p>
-
-**Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-</p>
-
-**Tools & Environment**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,vscode,linux&theme=dark" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Statistics
+### 02 / CURRENT DIRECTION
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**FRONTEND**
+
+Developing interfaces and understanding how to build responsive applications.
+
+`React`
+
+`JavaScript`
+
+`TypeScript`
+
+</td>
+<td width="33%" valign="top">
+
+**BACKEND**
+
+Learning to design APIs, handle application logic and work with databases.
+
+`Node.js`
+
+`Express`
+
+`Python`
+
+</td>
+<td width="33%" valign="top">
+
+**INFRASTRUCTURE**
+
+Exploring cloud platforms, development environments and deployment tools.
+
+`AWS`
+
+`Docker`
+
+`Linux`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 03 / TECHNOLOGY STACK
+
+<p>
+<strong>Languages</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,java&theme=dark" />
+</p>
+
+<p>
+<strong>Web Development</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" />
+</p>
+
+<p>
+<strong>Databases</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+</p>
+
+<p>
+<strong>Development Tools</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark" />
+</p>
+
+---
+
+### 04 / SELECTED WORK
+
+I use personal projects to put new concepts into practice and improve my understanding of software development.
+
+The repositories below contain my development work, experiments and learning projects.
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tiagodomo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00CFEA&icon_color=00CFEA&text_color=E6EDF3" />
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodomo&layout=compact&hide_border=true&bg_color=0D1117&title_color=00CFEA&text_color=E6EDF3" />
-
-  <br/><br/>
-
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=tiagodomo&bg_color=0D1117&color=E6EDF3&line=00CFEA&point=00CFEA&area=true&hide_border=true" />
+<a href="https://github.com/tiagodomo?tab=repositories">
+<img src="https://img.shields.io/badge/BROWSE%20ALL%20PROJECTS-A3E635?style=for-the-badge&labelColor=161B22&logo=github&logoColor=161B22" />
+</a>
 
 </div>
 
+<br/>
+
 ---
 
-## Projects
-
-You can find my projects and experiments in my repositories.
+### 05 / GITHUB ACTIVITY
 
 <div align="center">
 
-  <a href="https://github.com/tiagodomo?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20Repositories-087E9B?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=tiagodomo&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&bg_color=0D1117&text_color=C9D1D9&icon_color=A3E635&ring_color=A3E635" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodomo&layout=compact&hide_border=true&hide_title=true&bg_color=0D1117&text_color=C9D1D9&title_color=A3E635" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tiagodomo&bg_color=0D1117&color=C9D1D9&line=A3E635&point=A3E635&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-## Languages
+### 06 / BEYOND CODE
 
-| Language | Level |
-|:---|:---|
+Apart from programming, I enjoy learning new things, exploring technology and improving my problem-solving skills.
+
+**Languages**
+
+| Language | Proficiency |
+|:--|:--|
 | Portuguese | Native |
 | English | B2 / C1 |
 | Spanish | C1 |
 
 ---
 
+<details>
+<summary><strong>More about my current learning goals</strong></summary>
+
+<br/>
+
+- Improve my understanding of full-stack application development.
+- Build more projects using React and Node.js.
+- Learn how to work with AWS services.
+- Understand software architecture and application scalability.
+- Improve my practical experience with databases and APIs.
+
+</details>
+
+<br/>
+
 <div align="center">
 
-  <a href="mailto:tiagodossantosmoreira01@gmail.com">
-    Get in touch
-  </a>
+**HAVE A PROJECT IN MIND?**
 
-  <br/><br/>
+[Get in touch](mailto:tiagodossantosmoreira01@gmail.com)
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080C14,50:102638,100:087E9B&height=90&section=footer" />
+<br/>
+
+<sub>Designed and maintained by Tiago Moreira</sub>
 
 </div>
